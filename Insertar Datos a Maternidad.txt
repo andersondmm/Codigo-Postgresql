@@ -4,8 +4,8 @@ insert into paciente values
 (3,'Jaritza Madelaine','Intriago Alcívar','1990/06/29','1317419512','C01','1.72','jaritza@hotmail.com'),
 (4,'Mónica Victoria','Suárez Loor','2000/09/07','1317415050','D01','1.65','monica@hotmail.com'),
 (5,'Carolina Alejandra ','Palacios Delgado','2001/01/16','1317410148','E01','2.67','carolina@hotmail.com'),
-(6,'Sandra Isabel','Cedeño Veléz ','1997/11/19','1317417894','F01','1.77','sandra@hotmail.com'),
-(7,'Lionel Andrés','Messi Cuccitini','0978367502','liomessi@hotmail.com', 'Obstetra');
+(6,'Sandra Isabel','Cedeño Veléz ','1997/11/19','1317417894','F01','1.77','sandra@hotmail.com');
+
 
 insert into doctor values
 (1,'José Leonel','Zambrano Zambrano','0978963251','jose@hotmail.com', 'Obstetra'),
@@ -13,7 +13,8 @@ insert into doctor values
 (3,'Anthony Ivan','Zamora Zambrano','0930478203','anthony@hotmail.com','Obstetra'),
 (4,'Coraima Anahí','Bazurto Suárez','0999656481','coraima@hotmail.com','Obstetra'),
 (5,'Weslin Yuniver ','Murillo Bazurto','0937950208','weslin@hotmail.com','Obstetra'),
-(6,'Samari Jesús','García Intriago ','0977836020','samari@hotmail.com','Obstetra');
+(6,'Samari Jesús','García Intriago ','0977836020','samari@hotmail.com','Obstetra'),
+(7,'Lionel Andrés','Messi Cuccitini','0978367502','liomessi@hotmail.com', 'Obstetra');
 
 
 insert into citas values
