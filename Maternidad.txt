@@ -79,25 +79,3 @@ create table PARTO (
    NOMBRE     	         varchar(50)         null,
    constraint PK_PARTO primary key (IDPARTO,ID_PACIENTE)
 )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
